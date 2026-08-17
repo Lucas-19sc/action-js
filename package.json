@@ -1,0 +1,24 @@
+{
+  "name": "action",
+  "version": "1.0.0",
+  "description": "action-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucas-19sc/action-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucas-19sc/action-js/issues"
+  },
+  "homepage": "https://github.com/Lucas-19sc/action-js#readme",
+  "dependencies": {
+    "@actions/core": "^3.0.1",
+    "@actions/github": "^9.1.1"
+  }
+}
